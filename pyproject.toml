@@ -10,6 +10,7 @@ packages = [{include = "goit_python_web_hw9_scrapy"}]
 python = "^3.11"
 scrapy = "^2.10.0"
 selenium = "^4.11.2"
+mongoengine = "^0.27.0"
 
 
 [build-system]
