@@ -1,6 +1,5 @@
 import json
 
-
 import scrapy
 from itemadapter import ItemAdapter
 from scrapy.item import Item, Field
